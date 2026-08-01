@@ -10,7 +10,7 @@ A supply chain data model that ties signals, decisions, policy, and trace togeth
 
 ## Status
 
-Work in progress, built in public. The build log lives on [alxsidr.io](https://alxsidr.io). Project page: [automatiqa.io/the-orchestrator](https://www.automatiqa.io/the-orchestrator/).
+Work in progress, built in public. The build log lives on [automatiqa.io/tag/build-log](https://www.automatiqa.io/tag/build-log/). Project page: [automatiqa.io/the-orchestrator](https://www.automatiqa.io/the-orchestrator/).
 
 ## License
 
