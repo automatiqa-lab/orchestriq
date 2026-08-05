@@ -1,6 +1,8 @@
 # Orchestriq
 
-The execution layer for supply chain operations. It turns a stream of signals into decisions, applies policy, and keeps a traceable record of why each call was made - so an operation can move from dashboards that tell you what happened to a system that acts, at a pace you control.
+The kernel for agents that run real operations. Evals, approvals, earned autonomy and EU AI Act Article 50 transparency live in the runtime, so every module inherits them.
+
+The kernel knows nothing about your domain: no schemas, no industry logic, no opinion about what a good answer looks like. What it knows is how to run an agent under supervision - typed actions, a tool registry that decides what a module may call, full transcripts, scorers, an eval gate, and an approval inbox where unattended runs park their requests. Autonomy is a ladder climbed per action type on measured accuracy, not a setting a module can switch on for itself.
 
 Part of [Automatiqa Lab](https://www.automatiqa.io/orchestriq-core/) - open-source experiments where operations meet the algorithm.
 
