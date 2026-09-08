@@ -12,7 +12,7 @@ A supply chain data model that ties signals, decisions, policy, and trace togeth
 
 ## Status
 
-Work in progress, built in public. The build log lives on [automatiqa.io/tag/build-log](https://www.automatiqa.io/tag/build-log/). Project page: [automatiqa.io/orchestriq-core](https://www.automatiqa.io/orchestriq-core/).
+Work in progress, built in public. Project page: [automatiqa.io/orchestriq-core](https://www.automatiqa.io/orchestriq-core/).
 
 ## License
 
