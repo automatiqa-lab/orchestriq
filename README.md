@@ -4,7 +4,7 @@ The kernel for agents that run real operations. Evals, approvals, earned autonom
 
 The kernel knows nothing about your domain: no schemas, no industry logic, no opinion about what a good answer looks like. What it knows is how to run an agent under supervision - typed actions, a tool registry that decides what a module may call, full transcripts, scorers, an eval gate, and an approval inbox where unattended runs park their requests. Autonomy is a ladder climbed per action type on measured accuracy, not a setting a module can switch on for itself.
 
-Part of [Automatiqa Lab](https://www.automatiqa.io/orchestriq-core/) - open-source experiments where operations meet the algorithm.
+Part of [Automatiqa Lab](https://www.automatiqa.io) - open-source experiments where operations meet the algorithm.
 
 ## The shape
 
